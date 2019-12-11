@@ -61,4 +61,6 @@ Os seguintes dados devem ser apresentados na página:
 
 (Definir os links da API)
 
+# Bom teste ! =)
+
 <sub>Os dados presentes neste teste são totalmente fictícios.</sub>
