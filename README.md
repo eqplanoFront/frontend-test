@@ -38,6 +38,7 @@ Esse teste consiste em conhecermos um pouco mais sobre suas skills com HTML5, CS
 ### Página de login:
 - Única página disponível se não estiver logado;
 - Criar um usuário básico para acesso(pode ser fixo).
+- O controle de usuário, login e redirecionamento deverá ser todo na aplicação sem comunicação externa.
 
 ### Uma listagem de municípios em estilo table:
 - Os itens devem estar em ordem alfabética;
